@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mostafa-daif-109989398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-daif-109989398" height="30" width="40" /></a>
-<a href="https://fb.com/moustafa deif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61580485288657" height="30" width="40" /></a>
 <a href="https://instagram.com/_meshmalek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_meshmalek" height="30" width="40" /></a>
 <a href="https://medium.com/@moustafasalemdeif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mostafa salem daif" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/gmgnu3yE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gmgnu3yE" height="30" width="40" /></a>
