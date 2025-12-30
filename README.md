@@ -20,7 +20,7 @@
 
 ### 🛠 Skills & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter,github,git,figma,notion,firebase,sqlite" height="50" alt="skills"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter,github,git,figma,notion,firebase," height="50" alt="skills"  />
 </div>
 
 ### 🤝 Connect with me
@@ -53,10 +53,10 @@
 
 ### 📱 Featured Projects
 <p align="center">
-  <a href="https://github.com/MeshMalek/YourProject1">
+  <a href="https://github.com/MeshMalek/news_hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeshMalek&repo=news_hub&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/MeshMalek/YourProject2">
+  <a href="https://github.com/MeshMalek/aura">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeshMalek&repo=aura&theme=react&hide_border=true" />
   </a>
 </p>
