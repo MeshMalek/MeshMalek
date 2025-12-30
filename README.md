@@ -28,8 +28,8 @@
 
 ### 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats-six-theta.vercel.app/api?username=MeshMalek&show_icons=true&theme=dracula" height="180" />
-  <img src="https://github-readme-stats-six-theta.vercel.app/api/top-langs/?username=MeshMalek&layout=compact&theme=dracula&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MeshMalek&show_icons=true&theme=dracula" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeshMalek&layout=compact&theme=dracula&hide_border=true" height="180" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeshMalek&radius=16&theme=github-dark-dimmed&area=true&hide_title=true&hide_border=true" width="100%" alt="activity-graph" />
 </div>
@@ -66,7 +66,7 @@
       </a>
     </td>
     <td align="right" valign="bottom">
-      <img src="https://count.getloli.com/@:MeshMalek?theme=booru-koe&padding=9&offset=0&scale=1.2&pixelated=1&darkmode=auto" alt="visitor count" />
+      <img src="https://count.getloli.com/@:MeshMalek?theme=booru-koe&padding=8&offset=0&scale=1.2&pixelated=1&darkmode=auto" alt="visitor count" />
       <p style="font-size: 12px; margin: 0; font-weight: bold;">Profile Views</p>
     </td>
   </tr>
