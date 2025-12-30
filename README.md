@@ -66,7 +66,7 @@
       </a>
     </td>
     <td align="right" valign="bottom">
-      <img src="https://count.getloli.com/@:MeshMalek?theme=booru-koe&padding=6&offset=0&scale=1.2&pixelated=1&darkmode=auto" alt="visitor count" />
+      <img src="https://count.getloli.com/@:MeshMalek?theme=booru-koe&padding=9&offset=0&scale=1.2&pixelated=1&darkmode=auto" alt="visitor count" />
       <p style="font-size: 12px; margin: 0; font-weight: bold;">Profile Views</p>
     </td>
   </tr>
