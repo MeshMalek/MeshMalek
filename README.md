@@ -25,4 +25,4 @@ I have completed the [Mastering Programming: A Comprehensive Course](https://tha
 
 I have completed the [Master Git & GitHub: Essential Skills for Developers](https://tharwatacademy.com/tutor-certificate/?cert_hash=6ef81eeff44d1708) issued by Tharwat Academy .
 
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314dd5n43wjxqr6vw3wkqvqrm2gu&unique={true|1|on|yes})
