@@ -89,9 +89,7 @@
   <a href="https://github.com/MeshMalek/news_hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeshMalek&repo=news_hub&theme=react" />
   </a>
-  <a href="https://github.com/MeshMalek/aura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeshMalek&repo=aura&theme=react" />
-  </a>
+ 
 </p>
 
 
