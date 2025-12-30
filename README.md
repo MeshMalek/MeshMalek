@@ -65,7 +65,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left" valign="middle">
-      <h3 style="margin-bottom: 15px;">🤝 Connect with me</h3>
+      <h3 style="margin-bottom: 15px;"> Connect with me</h3>
       <a href="https://www.linkedin.com/in/mostafa-daif-109989398" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" style="margin-right: 8px;" /></a>
       <a href="https://x.com/mesh_malek" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" style="margin-right: 8px;" /></a>
       <a href="https://www.instagram.com/_meshmalek" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" style="margin-right: 8px;" /></a>
