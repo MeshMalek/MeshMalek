@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-green?style=for-the-badge&logo=flutter" alt="Status" />
 </p>
 <p align="center"><b>When passion drives the code, innovation knows no bounds.</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-green?style=for-the-badge&logo=flutter" alt="Status" />
+</p>
 
 ---
 
