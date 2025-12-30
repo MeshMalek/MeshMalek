@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mesh%20Malek&fontSize=80" alt="header" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-green?style=for-the-badge&logo=flutter" alt="Status" />
+</p>
 
 <h2 align="center">"Coding for fun always wins"</h2>
 <p align="center">
