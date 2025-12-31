@@ -19,9 +19,8 @@
   <tr>
     <td width="60%" valign="top">
       <h3>🚀 Get To Know Me</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" width="20" /> I’m currently learning <b>Mobile Development (Flutter)</b><br>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Zap.png" width="20" /> <b>True Fact:</b> I'm a polymath<br>
+      <p> I’m currently learning <b>Mobile Development (Flutter)</b><br>
+      <b>⚡True Fact:</b> I'm a polymath<br>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" /> I’m currently working on <b>cool mobile apps</b>
       </p>
       <h3>🛠 Skills & Tools</h3>
