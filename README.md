@@ -19,7 +19,7 @@
   <tr>
     <td width="60%" valign="top">
       <h3>🚀 Get To Know Me</h3>
-      <p> I’m currently learning <b>Mobile Development (Flutter)</b><br>
+      <p>🌱 I’m currently learning <b>Mobile Development (Flutter)</b><br>
       <b>⚡True Fact:</b> I'm a polymath<br>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" /> I’m currently working on <b>cool mobile apps</b>
       </p>
